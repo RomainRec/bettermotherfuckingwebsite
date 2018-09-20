@@ -6,3 +6,45 @@ h1,h2,h3
 {
 	line-height:1.2
 }
+
+/* code css pour la fenêtre popup */
+#divpopup
+{ 
+	position : fixed;
+	top: 100px;
+	bottom: 100px;
+	left: 300px;
+	right:300px;
+}
+
+.image { 
+	width:648px;
+	margin: auto;
+	
+}
+
+.boutonA{
+	background-color:orange;
+	position : fixed;
+	top: 400px;
+	bottom : 225px;
+	left: 500px;
+}
+
+.texte{
+  	background-color:blue;
+  	position : fixed;
+ 	top: 250px;
+	left: 500px;
+}
+
+.boutonB{
+  background-color:orange;
+	position : fixed;
+	margin: auto;
+	top: 400px;
+	left: 600px;
+	bottom : 225px;
+
+}
+
