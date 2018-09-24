@@ -26,25 +26,30 @@ h1,h2,h3
 .boutonA{
 	background-color:orange;
 	position : fixed;
-	top: 400px;
-	bottom : 225px;
+	top: 250px;
+	bottom : 350px;
 	left: 500px;
+	font-weight : bold;
 }
 
 .texte{
-  	background-color:blue;
+  	background-color:orange;
   	position : fixed;
- 	top: 250px;
-	left: 500px;
+  	color : white;
+  	font-style : bold;
+  	font-size : 20px;
+  	font-weight : bold;
+ 	top: 175px;
+	left: 450px;
 }
 
 .boutonB{
-  background-color:orange;
+  	background-color:orange;
 	position : fixed;
-	margin: auto;
-	top: 400px;
-	left: 600px;
-	bottom : 225px;
+	top: 250px;
+	left: 650px;
+	bottom : 350px;
+	font-weight : bold;
 
 }
 
